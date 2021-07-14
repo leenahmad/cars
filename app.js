@@ -35,11 +35,11 @@ var name = "hala"
 
 
 
-<<<<<<< HEAD
+
 alert("hi, welcome " + name)
-=======
+
 alert("hi, welcome hala" + name)
->>>>>>> b385cf2d2860037c8c4d8dd2dec8de3910c312fc
+
 
 
 var name = prompt("what is your name")
@@ -54,7 +54,7 @@ console.log(1 == 1 && 1>0)
 console.log(1 == 9 && 1>0)
 console.log(1 == 9 || 1>0)
 
-<<<<<<< HEAD
+
 if(favCar == "tesla"){
  document.write("<div>" + "<h4>" + favCar + "</h4>" + "<img src='https://www.teslarati.com/wp-content/uploads/2020/06/tesla-model-s-plaid-3-1024x670.jpg' 'alt=tesla'
   'width=300' 'height=200' 'title=tesla'>" + "</div")
