@@ -1,4 +1,4 @@
-
+/*
 var firstName = "Leen" 
 
 console.log(firstName)
@@ -66,8 +66,8 @@ else if(favCar == "mercedes"){
  document.write("<div>" + "<h4>" + favCar + "</h4>" + "<img src='https://www.mercedes-benz.com/en/company/_jcr_content/root/slider/sliderchilditems/slideritem/image/MQ3-0-tabletImage-20191025121730/01-mercedes-benz-ag-company-3400x1440.jpeg' 'alt=mercedes' 'width=300' 'height=200' 'title=mercedes'>" + "</div>")
 }
 else{
-  console.log("Your fav car is not here")
-}
+ confirm("Your fav car is not here")
+}*/
 
 
 
