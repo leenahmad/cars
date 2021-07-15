@@ -67,7 +67,11 @@ else if(favCar == "mercedes"){
 }
 else{
  confirm("Your fav car is not here")
+<<<<<<< HEAD
 }*/
+=======
+}
+>>>>>>> 1a1a1f6ff560745367f4d6af615b6b2e2eabf651
 
 
 
