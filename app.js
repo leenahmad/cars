@@ -97,7 +97,7 @@ else if(favCar == "mercedes"){
 }
 else{
  confirm("Your fav car is not here")
-<<<<<<< HEAD
+
 
 }
 

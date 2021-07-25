@@ -1,11 +1,11 @@
 body{
-  background-color: lightgray;
+  background-color: lightgrey;
   margin: 0px;
 }
 
 
 header{
-  background-color: rgba(76, 231, 205, 0.479);
+  background-color: rgba(140, 255, 236, 0.938);
   height: 100px;
   padding: 20px;
   padding-left: 100px;
@@ -14,11 +14,11 @@ h1{
   margin: 0;
 }
 header div{
-  background-color:  rgba(76, 231, 205, 0.479);
+  background-color:  rgba(140, 255, 236, 0.938);
 }
 
 footer{
-   background-color:  rgba(76, 231, 205, 0.479);
+   background-color:  rgba(140, 255, 236, 0.938);
 }
 
 
