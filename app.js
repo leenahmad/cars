@@ -70,9 +70,9 @@ while(favCar != "tesla" && favCar != "mazda" && favCar != "mercedes"){
 
 var numberOfPic = prompt("how many times you wish to see it")
 
-while(numberOfPic > 10){
+while(numberOfPic > 5){
 
-numberOfPic = prompt ("please enter number less than 10")
+numberOfPic = prompt ("please enter number less than 5")
 }
 
 if(favCar == "tesla"){
@@ -100,13 +100,7 @@ else{
 <<<<<<< HEAD
 
 }
-=======
-<<<<<<< HEAD
-}*/
-=======
-}
->>>>>>> 1a1a1f6ff560745367f4d6af615b6b2e2eabf651
->>>>>>> 5626f5d2f9e18bde02dd84f6e3c19cfb64e85721
+
 
 /* for loops*/
 /*
