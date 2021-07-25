@@ -27,7 +27,6 @@ function yourAge(){
   var a = b - c; 
 
   return a;
-
 }
  
  var result = parseInt(yourAge())
